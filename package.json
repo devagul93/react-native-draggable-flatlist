@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/computerjazz/react-native-draggable-flatlist.git"
+    "url": "git+https://github.com/devagul93/react-native-draggable-flatlist.git"
   },
   "keywords": [
     "react-native",
